@@ -17,11 +17,11 @@ I'm a Data Engineer focused on **Microsoft Fabric** and **Power BI** — buildin
 
 | Date | Event | Session |
 |------|-------|---------|
-| Oct 2026 | Community Summit NA 2026 | Dataverse for the Fabric Practitioner: What to Know Before You Build |
-| Oct 2026 | FabCon Europe 2026 | Not Every Notebook Needs Spark |
-| Sep 2026 | Nashville Microsoft Community Day 2026 | Data on Fire: A Hands-On Intro to Spark in Fabric |
-| Aug 2026 | Day of Data Albany 2026 | The Data Professional's Power Toolkit |
-| Aug 2026 | Day of Data Albany 2026 | DuckDB 101: From Desktop to Notebook |
-| Jul 2026 | Day of Data Baton Rouge 2026 | Data on Fire: A Hands-On Intro to Spark in Fabric |
+| Nov 12, 2026 | Day of Data Seattle 2026 | [Postgres as a Lakehouse Catalog: Getting Started with DuckLake](https://github.com/thedatashepherd/Presentations/tree/main/Events/2026/November/DayOfData_Seattle/DuckLake) |
+| Nov 7, 2026 | Day of Data PNW 2026 | [The Data Detective’s Toolkit: Diagnose, Monitor, and Fix with Semantic Link Labs](https://github.com/thedatashepherd/Presentations/tree/main/Events/2026/November/DayOfData_PNW/DataDetectiveToolkit) |
+| Oct 2026 | Jax Data User Group | [Not Every Notebook Needs Spark](https://github.com/thedatashepherd/Presentations/tree/main/Events/2026/October/JaxDataUserGroup/NotEveryNotebookNeedsSpark) |
+| Oct 2026 | Day of Data Orlando 2026 | [Fabric 101: Your Park Map to Microsoft Fabric](https://github.com/thedatashepherd/Presentations/tree/main/Events/2026/October/DayOfData_Orlando/Fabric101) |
+| Oct 2026 | Community Summit NA 2026 | [Dataverse for the Fabric Practitioner: What to Know Before You Build](https://github.com/thedatashepherd/Presentations/tree/main/Events/2026/October/CommunitySummitNA_Nashville/DataverseForTheFabricPractitioner) |
+| Oct 2026 | FabCon Europe 2026 | [Not Every Notebook Needs Spark](https://github.com/thedatashepherd/Presentations/tree/main/Events/2026/October/FabConEurope_Barcelona/NotEveryNotebookNeedsSpark) |
 
 ➡️ [Full list of presentations and demo files](https://github.com/thedatashepherd/Presentations)
